@@ -1,1 +1,3 @@
 # bac-vocale
+Se citeste de la tastatura un text, avand cel mult 200 de caractere, format din mai multe cuvinte, separate prin unul sau mai multe semne de punctuatie: " ,?!". Textul se incheie cu punct. Cuvintele contin numai litere mici ale alfabetului englez. Scrie un program C++ care obtine un nou text format din toate cuvintele textului citit care incep si se incheie cu o vocala, separate intre ele prin spatiu. Programul va afisa pe ecran textul obtinut sau va afisa mesajul "nu exista" daca textul citit nu contine astfel de cuvinte.
+* Exemplu: daca se citeste textul "lumina, asteroizi, comete, albine, oceane, oaza, soare, alba." se va obtine textul "asteroizi albine oceane oaza alba"
